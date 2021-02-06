@@ -19,6 +19,8 @@
 ## 👯‍♀️💬 Contribution
 
 ### Contributions are welcome. Feel free to fork this repository and submit a pull request with your improvements or fixes.
-    
+
+## Documentation  
+[Documentation](doc.md)     
     
 ## [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
