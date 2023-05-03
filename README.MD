@@ -1,16 +1,21 @@
-README
-Este repositório contém um projeto de layout básico para uma página web utilizando HTML, CSS e JavaScript. O objetivo é fornecer uma estrutura simples e responsiva para desenvolvimento de aplicações web.
+# responsive basic layout 👋
+                
+### 🚀 This repository contains a basic layout project for a web page using HTML, CSS and JavaScript. The goal is to provide a simple and responsive framework for web application development.
 
-Conteúdo
-O arquivo index.html contém o código HTML da página.
-O diretório assets contém os arquivos CSS e JavaScript necessários para o funcionamento da página.
-O arquivo assets/css/layout.css contém a estilização da página.
-O arquivo assets/js/script.js contém o código JavaScript para controle do menu de navegação.
-Como utilizar
-Para utilizar o layout em seu projeto, basta copiar o código HTML do arquivo index.html e adicionar o diretório assets em seu projeto. É necessário também adicionar o link para o arquivo CSS e o script JavaScript em seu HTML.
+### 🚀🧠 The index.html file contains the HTML code for the page. The assets directory contains the CSS and JavaScript files needed for the page to function. The assets/css/layout.css file contains the page styling. The assets/js/script.js file contains the JavaScript code to control the navigation menu. How to use it To use the layout in your project, just copy the HTML code from the index.html file and add the assets directory to your project. You also need to add the link to the CSS file and the JavaScript script in your HTML
 
-Contribuição
-Contribuições são bem-vindas. Sinta-se à vontade para fazer um fork deste repositório e enviar um pull request com suas melhorias ou correções.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claiton)  
 
-Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+    
+## 🛠 Skills
+
+### HTML, CSS, JavaScript
+
+    
+## 👯‍♀️💬 Contribution
+
+### Contributions are welcome. Feel free to fork this repository and submit a pull request with your improvements or fixes.
+    
+    
+## [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
